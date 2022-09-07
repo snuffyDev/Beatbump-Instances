@@ -15,6 +15,7 @@ status-website:
   baseUrl: /Beatbump-Instances
   logoUrl: https://github.com/snuffyDev/Beatbump/blob/master/.repo/images/logo-header.png
   name: Beatbump
+  theme: night
   introTitle: "Instance uptime monitoring & status page"
   introMessage: Uptime monitoring for [Beatbump](https://github.com/snuffyDev/Beatbump) instances.
   navbar:
