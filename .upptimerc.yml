@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #   cname: demo.upptime.js.org
   baseUrl: /Beatbump-Instances
-  logoUrl: https://github.com/snuffyDev/Beatbump/blob/master/.repo/images/logo-header.png
+  logoUrl: https://raw.githubusercontent.com/snuffyDev/Beatbump/master/app/static/logo.svg
   name: Beatbump
   theme: night
   introTitle: "Instance uptime monitoring & status page"
