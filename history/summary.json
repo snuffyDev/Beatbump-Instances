@@ -22,17 +22,19 @@
     "url": "https://beatbump.esmailelbob.xyz/",
     "icon": "https://favicons.githubusercontent.com/beatbump.esmailelbob.xyz",
     "slug": "https-beatbump-esmailelbob-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1268,
-    "timeDay": 1441,
-    "timeWeek": 1268,
-    "timeMonth": 1268,
-    "timeYear": 1268,
-    "dailyMinutesDown": {}
+    "time": 1135,
+    "timeDay": 889,
+    "timeWeek": 1135,
+    "timeMonth": 1135,
+    "timeYear": 1135,
+    "dailyMinutesDown": {
+      "2022-09-10": 0
+    }
   }
 ]
